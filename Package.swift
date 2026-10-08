@@ -12,7 +12,7 @@
 import PackageDescription
 
 let rvaFFIUrl = "https://github.com/airovo/rva/releases/download/v0.1.2/RVAFFI.xcframework.zip"
-let rvaFFIChecksum = "0000000000000000000000000000000000000000000000000000000000000000"
+let rvaFFIChecksum = "eac26e197271b3d557e41a2561d9239316775433823ec10eddb445d7d6ec605c"
 
 let package = Package(
     name: "RVA",
