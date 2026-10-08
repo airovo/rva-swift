@@ -1,0 +1,13 @@
+# SwiftPM
+.build/
+.swiftpm/
+Package.resolved
+
+# Apple
+*.xcuserstate
+xcuserdata/
+.DS_Store
+
+# Local core binary (for development — see README)
+RVAFFI.xcframework/
+RVAFFI.xcframework.zip
